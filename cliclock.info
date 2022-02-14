@@ -1,0 +1,6 @@
+{
+  "id":"cliclock",
+  "name":"CLI Clock",
+  "type":"clock",
+  "src":"cliclock.app.js"
+}
